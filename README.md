@@ -1,5 +1,6 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://dev.azure.com/azquadrantit/DemoProjectForToday/_apis/build/status/durgapraveena.calculator1?branchName=master)](https://dev.azure.com/azquadrantit/DemoProjectForToday/_build/latest?definitionId=9&branchName=master)
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
